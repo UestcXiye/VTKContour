@@ -1,4 +1,4 @@
-# VTK
+# VTKContour
 
 VTK 的可视化方法：颜色映射。
 
